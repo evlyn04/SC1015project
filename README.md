@@ -32,14 +32,7 @@ This is a
 
 ## What did we learn from this project?
 
-- Handling imbalanced datasets using resampling methods and imblearn package
-- Neural Networks, Keras and Tensorflow
-- Logistic Regression from sklearn
-- API Usage
-- Other packages such as tqdm, json, requests
-- Collaborating using GitHub
-- Concepts about Precision, Recall, and F1 Score
-
+- 
 ## References
 
 - https://forecastegy.com/posts/feature-importance-in-random-forests/
