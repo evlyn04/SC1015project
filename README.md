@@ -6,7 +6,8 @@ This is a
 
   
 ## Contributors
-- 
+- Diong Wei Chong
+- Ee Wen Hui, Evlyn
 
 ## Problem Definition
 
