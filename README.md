@@ -20,17 +20,25 @@ How can insurance companies increase their prediction accuracy of whether or not
 ## Models Used
 
 1. Naive Bayes Classification
-2. Random Forest
-3. Voting Classifier
+2. Logistic Regression
+3. Random Forest
+4. Voting Classifier
 
 ## Conclusion
 - Key variables in predicting "is_claim" are 
       1. Age of policyholder
       2. Age of car
       3. Duration of policy tenure
+      4. Gross_weight
+      5. Length of Car
 
 ## What did we learn from this project?
 - Identified Random Forest Model as our preferred model due to high predictive accuracy
+
+## Recommendations
+1. Choose not to provide coverage or charge higher premiums to new policy applicants that are likely to file a claim in the next 6 months as company will likely suffer a loss on this group of people
+2. Collect only selected data points required for the model from policyholders to reduce information costs
+3. Allow companies to predict amount of potential future insurance claims so as to better manage employee workload and work plan forecasting
 
 ## Contributors
 - Diong Wei Chong
