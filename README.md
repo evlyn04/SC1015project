@@ -1,13 +1,9 @@
 # Insurance Claim Prediction
 
 ## About
-
-This is a 
-
-  
-## Contributors
-- Diong Wei Chong
-- Ee Wen Hui, Evlyn
+For this project, we chose to look into insurance claim predictions due to 2 key problems we identified:
+    1. Risk management: Insurance companies face the challenge of effectively managing their risk exposure. They need to accurately identify policyholders who are at a higher risk         of filing a claim, allowing them to adjust premiums accordingly or implement proactive measures to mitigate potential risks.
+    2. Financial Planning: One of the key issues for insurance companies is forecasting their financial liabilities accurately. This involves the challenge of predicting claim             filings with precision, enabling insurers to establish suitable reserves and efficient allocation of resources to prevent cases of insufficient liquidity 
 
 ## Problem Definition
 How can insurance companies increase their prediction accuracy of whether or not a policy holder will file a claim in the next 6 months??
@@ -36,6 +32,10 @@ How can insurance companies increase their prediction accuracy of whether or not
 ## What did we learn from this project?
 - Identified Random Forest Model as our preferred model due to high predictive accuracy
 
-## References
+## Contributors
+- Diong Wei Chong
+- Ee Wen Hui, Evlyn
 
+## References
+- https://www.kaggle.com/datasets/ifteshanajnin/carinsuranceclaimprediction-classification 
 - https://forecastegy.com/posts/feature-importance-in-random-forests/
