@@ -6,7 +6,7 @@ For this project, we chose to look into insurance claim predictions due to 2 key
     2. Financial Planning: One of the key issues for insurance companies is forecasting their financial liabilities accurately. This involves the challenge of predicting claim             filings with precision, enabling insurers to establish suitable reserves and efficient allocation of resources to prevent cases of insufficient liquidity 
 
 ## Problem Definition
-How can insurance companies increase their prediction accuracy of whether or not a policy holder will file a claim in the next 6 months??
+How can insurance companies increase their prediction accuracy of whether or not a policy holder will file a claim in the next 6 months?
 
 ## Data Cleaning/Preparation
 - Checking for unique and null values 
