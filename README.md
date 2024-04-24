@@ -32,8 +32,8 @@ How can insurance companies increase their prediction accuracy of whether or not
 1. Age of policyholder
 2. Age of car
 3. Duration of policy tenure
-4. Gross_weight
-5. Length of Car
+4. Gross Weight of car
+5. Length of car
 
 ## What did we learn from this project?
 - Identified Random Forest Model as our preferred model due to high predictive accuracy
