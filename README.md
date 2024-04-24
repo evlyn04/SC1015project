@@ -27,12 +27,13 @@ How can insurance companies increase their prediction accuracy of whether or not
 4. Voting Classifier
 
 ## Conclusion
-- Key variables in predicting "is_claim" are 
-      1. Age of policyholder
-      2. Age of car
-      3. Duration of policy tenure
-      4. Gross_weight
-      5. Length of Car
+- Key variables in predicting "is_claim" are
+
+1. Age of policyholder
+2. Age of car
+3. Duration of policy tenure
+4. Gross_weight
+5. Length of Car
 
 ## What did we learn from this project?
 - Identified Random Forest Model as our preferred model due to high predictive accuracy
