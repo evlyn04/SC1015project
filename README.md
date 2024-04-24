@@ -39,3 +39,6 @@ How can insurance companies increase their prediction accuracy of whether or not
 ## References
 - https://www.kaggle.com/datasets/ifteshanajnin/carinsuranceclaimprediction-classification 
 - https://forecastegy.com/posts/feature-importance-in-random-forests/
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html
+- https://www.analyticsvidhya.com/blog/2021/08/conceptual-understanding-of-logistic-regression-for-data-science-beginners/
+- https://www.baeldung.com/cs/hard-vs-soft-voting-classifiers
